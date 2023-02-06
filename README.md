@@ -13,6 +13,6 @@ I create a simple version of the game with pygame.
 
 ## Best performance
 
-- I try to use the A2C algorithm to solve the game. Video: https://www.youtube.com/watch?v=gthVYd_c6To (This is my training result). I saved the model in the "WorldHardestGame_A2C_Model" folder.
+- I try to use the A2C algorithm to solve the game. Video: https://youtu.be/w1T6CeUWNh8 (This is my training result). I saved the model in the "WorldHardestGame_A2C_Model" folder.
 - DQN has the best performace so far within 200 episodes, but further training gives worse results.
 
